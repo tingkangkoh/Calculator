@@ -1,0 +1,48 @@
+.container{
+    width:473px;
+    margin:auto;
+    background-color:#1F5673;
+    padding:25px 0;
+}
+.buttons{
+    margin:10px;
+    height:100px;
+}
+.space{
+    height:100px;
+}
+
+button{
+    width:100px;
+    height:100px;
+    margin:5px;
+    font-size:25px;
+    background-color: #759FBC;
+    color: #EFD6AC;
+    border:2px solid black;
+    border-radius:8px;
+}
+button:active{
+    background-color:black;
+}
+
+.screen{
+    text-align:right;
+    height:100px;
+    font-size:60px;
+    width:437px;
+    background-color:#90C3C8;
+    margin:auto;
+    border:3px solid black;
+
+
+}
+
+.zero{
+    width:215px;
+}
+
+#back img{
+    height:50px;
+    width:50px;
+}
