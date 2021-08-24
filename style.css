@@ -2,7 +2,8 @@
     width:473px;
     margin:auto;
     background-color:#1F5673;
-    padding:25px 0;
+    padding:25px 10px;
+    margin-top:25px;
 }
 .buttons{
     margin:10px;
@@ -17,7 +18,8 @@ button{
     height:100px;
     margin:5px;
     font-size:25px;
-    background-color: #759FBC;
+    /* background-color: #759FBC; */
+    background-color: #192A51;
     color: #EFD6AC;
     border:2px solid black;
     border-radius:8px;
